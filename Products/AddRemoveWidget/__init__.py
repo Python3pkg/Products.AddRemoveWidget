@@ -1,5 +1,5 @@
-from AddRemoveWidget import AddRemoveWidget
-from ComboBoxWidget import ComboBoxWidget
+from .AddRemoveWidget import AddRemoveWidget
+from .ComboBoxWidget import ComboBoxWidget
 
 
 def initialize(context):
